@@ -1,12 +1,10 @@
 # Text Sentiment Analysis In Hadoop & Spark
 
---------------------------------
-|MSV       | Thành viên        |
---------------------------------
-| 22022565 | Nguyễn Công Huynh |
-| 22022xxx | Ngô Đức Hùng      |
-| 22022xxx | Nguyễn Văn Trường |
---------------------------------
+| MSV       | Thành viên          |
+|-----------|---------------------|
+| 22022565  | Nguyễn Công Huynh   |
+| 22022xxx  | Ngô Đức Hùng        |
+| 22022xxx  | Nguyễn Văn Trường   |
 
 ## Triển khai
 
