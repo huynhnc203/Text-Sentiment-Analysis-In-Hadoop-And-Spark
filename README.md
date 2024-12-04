@@ -3,8 +3,8 @@
 | MSV       | Thành viên          |
 |-----------|---------------------|
 | 22022565  | Nguyễn Công Huynh   |
-| 22022xxx  | Ngô Đức Hùng        |
-| 22022xxx  | Nguyễn Văn Trường   |
+| 22022652  | Ngô Đức Hùng        |
+| 22022571  | Nguyễn Văn Trường   |
 
 ## Triển khai
 
